@@ -45,8 +45,8 @@ Full-stack geliştirme alanında teknik yetkinliğimi geliştirerek yazılım st
 ---
 
 ## 📫 İletişim
-- LinkedIn: (LinkedIn linkini ekle)
-- E-posta: (mail adresini ekle)
+- LinkedIn: (https://www.linkedin.com/in/mualla-%C3%A7apar-092397249/)
+- E-posta: (muallacapar93@gmail.com)
 <!--
 **muallacapar/muallacapar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
